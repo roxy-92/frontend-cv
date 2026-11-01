@@ -19,11 +19,11 @@ export class App {
       contact: 'Contact',
       profile: 'Professional Summary',
       profileText:
-        'Frontend Developer with professional experience building web applications using Angular, TypeScript, HTML5 and CSS3. Experienced in REST API integration, application development and maintenance, and version control using Git and Git-based repositories. Additional technical experience in WordPress and other CMS platforms, website deployment, Docker and infrastructure management.',
+        'Frontend Developer with previous professional experience developing web applications using Angular and TypeScript. Returning to frontend development with a focus on modern Angular, responsive interfaces and maintainable code. Experience integrating REST APIs, maintaining applications and using Git. Additional experience managing client web projects, CMS platforms, hosting and deployments.',
       skills: 'Technical Skills',
       experience: 'Professional Experience',
       education: 'Education',
-      training: 'Certifications & Additional Training',
+      training: 'Additional Activities',
       languages: 'Languages',
 
       jobs: [
@@ -31,11 +31,12 @@ export class App {
           title: 'Freelance Web Developer | Digital Projects',
           dates: 'May 2019 – March 2026',
           bullets: [
-            'Developed and maintained websites for international clients.',
-            'Created, customised and maintained websites using WordPress and other CMS platforms.',
-            'Configured web hosting, domains, DNS and VPS environments.',
-            'Used Docker in web projects and handled deployments and maintenance.',
-            'Managed client requirements, quotes, deadlines and deliveries.',
+            'Developed and maintained websites for international clients using WordPress and other CMS platforms.',
+            'Built independent Angular applications with Kotlin/Java backends and MongoDB databases.',
+            'Designed responsive website layouts and digital graphic assets.',
+            'Configured hosting, domains, DNS and VPS environments.',
+            'Used Docker for local environments, deployment and maintenance.',
+            'Managed client requirements, budgets and project deliveries.',
           ],
         },
         {
@@ -91,11 +92,11 @@ export class App {
         {
           title: 'Frontend Development',
           items:
-            'Angular · TypeScript · JavaScript · HTML5 · CSS3 · Bootstrap · jQuery · Responsive Design',
+            'Angular · TypeScript · Bootstrap · jQuery · Responsive Design',
         },
         {
-          title: 'Version Control & Repositories',
-          items: 'Git · GitHub · GitLab',
+          title: 'Version Control & Collaboration',
+          items: 'Git · GitHub',
         },
         {
           title: 'CMS & E-commerce',
@@ -107,7 +108,7 @@ export class App {
         },
         {
           title: 'Databases',
-          items: 'SQL · MySQL · PostgreSQL · MongoDB',
+          items: 'SQL · MySQL · MongoDB',
         },
         {
           title: 'Infrastructure & Deployment',
@@ -116,7 +117,7 @@ export class App {
         },
         {
           title: 'Digital Design',
-          items: 'Website Design · Digital Graphic Assets',
+          items: 'Website Design · Banners · Digital Graphic Assets',
         },
       ],
 
@@ -139,8 +140,8 @@ export class App {
       ],
 
       trainingItems: [
+        'Girls Camp Mentor · Two consecutive years',
         'HTML & CSS Workshop Instructor',
-        'Digital Transformation Fundamentals',
       ],
 
       languageItems: [
@@ -157,11 +158,11 @@ export class App {
       contact: 'Contacto',
       profile: 'Perfil profesional',
       profileText:
-        'Desarrolladora Frontend con experiencia profesional creando aplicaciones web con Angular, TypeScript, HTML5 y CSS3. Experiencia integrando APIs REST, desarrollando y manteniendo aplicaciones y utilizando Git y repositorios de código. Experiencia técnica adicional con WordPress y otros CMS, despliegue web, Docker y gestión de infraestructura.',
+        'Desarrolladora frontend con experiencia profesional previa en aplicaciones web con Angular y TypeScript. Retomando el desarrollo frontend con especial interés en Angular moderno, interfaces adaptables y código mantenible. Experiencia integrando APIs REST, manteniendo aplicaciones y utilizando Git. Experiencia adicional gestionando proyectos web para clientes, plataformas CMS, alojamiento y despliegues.',
       skills: 'Competencias técnicas',
       experience: 'Experiencia profesional',
       education: 'Formación académica',
-      training: 'Certificaciones y formación adicional',
+      training: 'Actividades complementarias',
       languages: 'Idiomas',
 
       jobs: [
@@ -169,11 +170,12 @@ export class App {
           title: 'Desarrolladora web autónoma | Proyectos digitales',
           dates: 'Mayo 2019 – marzo 2026',
           bullets: [
-            'Desarrollo y mantenimiento de páginas web para clientes internacionales.',
-            'Creación, personalización y mantenimiento de webs con WordPress y otros CMS.',
+            'Desarrollo y mantenimiento de sitios web para clientes internacionales con WordPress y otros CMS.',
+            'Desarrollo de aplicaciones propias con Angular, backend en Kotlin/Java y bases de datos MongoDB.',
+            'Diseño de páginas adaptables y recursos gráficos digitales.',
             'Configuración de alojamiento web, dominios, DNS y entornos VPS.',
-            'Uso de Docker en proyectos web y gestión de despliegues y mantenimiento.',
-            'Gestión de requisitos de clientes, presupuestos, plazos y entregas.',
+            'Uso de Docker para entornos locales, despliegues y mantenimiento.',
+            'Gestión de requisitos, presupuestos y entregas de proyectos.',
           ],
         },
         {
@@ -230,11 +232,11 @@ export class App {
         {
           title: 'Desarrollo frontend',
           items:
-            'Angular · TypeScript · JavaScript · HTML5 · CSS3 · Bootstrap · jQuery · Diseño adaptable',
+            'Angular · TypeScript · Bootstrap · jQuery · Diseño adaptable',
         },
         {
-          title: 'Control de versiones y repositorios',
-          items: 'Git · GitHub · GitLab',
+          title: 'Control de versiones y colaboración',
+          items: 'Git · GitHub',
         },
         {
           title: 'CMS y comercio electrónico',
@@ -246,7 +248,7 @@ export class App {
         },
         {
           title: 'Bases de datos',
-          items: 'SQL · MySQL · PostgreSQL · MongoDB',
+          items: 'SQL · MySQL · MongoDB',
         },
         {
           title: 'Infraestructura y despliegue',
@@ -255,7 +257,7 @@ export class App {
         },
         {
           title: 'Diseño digital',
-          items: 'Diseño web · Recursos gráficos digitales',
+          items: 'Diseño web · Banners · Recursos gráficos digitales',
         },
       ],
 
@@ -276,8 +278,8 @@ export class App {
       ],
 
       trainingItems: [
+        'Mentora en Girls Camp · Dos años consecutivos',
         'Instructora de talleres de HTML y CSS',
-        'Fundamentos de transformación digital',
       ],
 
       languageItems: [
