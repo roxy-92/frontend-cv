@@ -25,6 +25,7 @@ export class App {
       education: 'Education',
       training: 'Certifications & Additional Training',
       languages: 'Languages',
+
       jobs: [
         {
           title: 'Freelance Web Developer | Digital Projects',
@@ -85,10 +86,12 @@ export class App {
           ],
         },
       ],
+
       skillGroups: [
         {
           title: 'Frontend Development',
-          items: 'Angular · TypeScript · JavaScript · HTML5 · CSS3 · Bootstrap · jQuery · Responsive Design',
+          items:
+            'Angular · TypeScript · JavaScript · HTML5 · CSS3 · Bootstrap · jQuery · Responsive Design',
         },
         {
           title: 'Version Control & Repositories',
@@ -108,27 +111,38 @@ export class App {
         },
         {
           title: 'Infrastructure & Deployment',
-          items: 'Docker · VPS · Hosting · Domains · DNS · Website Deployment & Maintenance',
+          items:
+            'Docker · VPS · Hosting · Domains · DNS · Website Deployment & Maintenance',
         },
         {
           title: 'Digital Design',
           items: 'Website Design · Digital Graphic Assets',
         },
       ],
+
       studies: [
         {
-          title: 'Higher Vocational Training Diploma in Web Application Development',
+          title: 'Computer Engineering | Undergraduate Studies',
+          details:
+            'University of Almería · 2014–2018 · Degree not completed',
+        },
+        {
+          title:
+            'Higher Vocational Training Diploma in Web Application Development',
           details: 'IES Aguadulce · September 2012 – July 2014',
         },
         {
-          title: 'Intermediate Vocational Training Diploma in Microcomputer Systems and Networks',
+          title:
+            'Intermediate Vocational Training Diploma in Microcomputer Systems and Networks',
           details: 'IES La Puebla · September 2010 – July 2012',
         },
       ],
+
       trainingItems: [
         'HTML & CSS Workshop Instructor',
         'Digital Transformation Fundamentals',
       ],
+
       languageItems: [
         'Spanish · Native',
         'English · Professional working proficiency',
@@ -149,6 +163,7 @@ export class App {
       education: 'Formación académica',
       training: 'Certificaciones y formación adicional',
       languages: 'Idiomas',
+
       jobs: [
         {
           title: 'Desarrolladora web autónoma | Proyectos digitales',
@@ -191,7 +206,8 @@ export class App {
           ],
         },
         {
-          title: 'Desarrolladora frontend en prácticas | Cloud Software Factory',
+          title:
+            'Desarrolladora frontend en prácticas | Cloud Software Factory',
           dates: 'Enero 2014 – junio 2014',
           bullets: [
             'Desarrollo de interfaces web adaptables con HTML, CSS y JavaScript.',
@@ -209,10 +225,12 @@ export class App {
           ],
         },
       ],
+
       skillGroups: [
         {
           title: 'Desarrollo frontend',
-          items: 'Angular · TypeScript · JavaScript · HTML5 · CSS3 · Bootstrap · jQuery · Diseño adaptable',
+          items:
+            'Angular · TypeScript · JavaScript · HTML5 · CSS3 · Bootstrap · jQuery · Diseño adaptable',
         },
         {
           title: 'Control de versiones y repositorios',
@@ -232,14 +250,21 @@ export class App {
         },
         {
           title: 'Infraestructura y despliegue',
-          items: 'Docker · VPS · Alojamiento web · Dominios · DNS · Despliegue y mantenimiento',
+          items:
+            'Docker · VPS · Alojamiento web · Dominios · DNS · Despliegue y mantenimiento',
         },
         {
           title: 'Diseño digital',
           items: 'Diseño web · Recursos gráficos digitales',
         },
       ],
+
       studies: [
+        {
+          title: 'Grado en Ingeniería Informática | Estudios cursados',
+          details:
+            'Universidad de Almería · 2014–2018 · Titulación no finalizada',
+        },
         {
           title: 'Técnico Superior en Desarrollo de Aplicaciones Web',
           details: 'IES Aguadulce · Septiembre 2012 – julio 2014',
@@ -249,10 +274,12 @@ export class App {
           details: 'IES La Puebla · Septiembre 2010 – julio 2012',
         },
       ],
+
       trainingItems: [
         'Instructora de talleres de HTML y CSS',
         'Fundamentos de transformación digital',
       ],
+
       languageItems: [
         'Español · Nativo',
         'Inglés · Competencia profesional',
