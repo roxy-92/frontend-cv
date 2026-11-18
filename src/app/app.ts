@@ -19,7 +19,7 @@ export class App {
       contact: 'Contact',
       profile: 'Professional Summary',
       profileText:
-        'Frontend Developer with previous professional experience developing web applications using Angular and TypeScript. Returning to frontend development with a focus on modern Angular, responsive interfaces and maintainable code. Experience integrating REST APIs, maintaining applications and using Git. Additional experience managing client web projects, CMS platforms, hosting and deployments.',
+        'Frontend Developer with professional experience building web applications using Angular and TypeScript, integrating REST APIs, and maintaining business software. Experienced in CMS-based development, backend technologies, Docker, and web infrastructure management. Combines software development experience with independent project delivery and collaboration across multidisciplinary teams.',
       skills: 'Technical Skills',
       experience: 'Professional Experience',
       education: 'Education',
@@ -31,12 +31,12 @@ export class App {
           title: 'Freelance Web Developer | Digital Projects',
           dates: 'May 2019 – March 2026',
           bullets: [
-            'Developed and maintained websites for international clients using WordPress and other CMS platforms.',
-            'Built independent Angular applications with Kotlin/Java backends and MongoDB databases.',
-            'Designed responsive website layouts and digital graphic assets.',
-            'Configured hosting, domains, DNS and VPS environments.',
-            'Used Docker for local environments, deployment and maintenance.',
-            'Managed client requirements, budgets and project deliveries.',
+            'Developed, customized, and maintained websites and CMS-based solutions for international clients.',
+            'Independently developed Angular applications using Java/Kotlin backend technologies and MongoDB.',
+            'Designed responsive website layouts and digital graphic assets according to client requirements.',
+            'Configured and maintained hosting environments, VPS servers, domains, DNS, and website deployments.',
+            'Used Docker for local development environments.',
+            'Managed client communication, technical requirements, budgets, and project deliveries.',
           ],
         },
         {
@@ -52,10 +52,10 @@ export class App {
           title: 'Application Developer | ZRED',
           dates: 'April 2018 – June 2019',
           bullets: [
-            'Developed and maintained web and mobile applications.',
-            'Developed application features using Angular.',
-            'Integrated REST APIs and external services.',
-            'Developed Telegram bots connected to external services.',
+            'Developed and maintained web and mobile application features.',
+            'Built application features using Angular.',
+            'Integrated REST APIs and third-party services.',
+            'Built Telegram bots connected to external services.',
             'Collaborated with development teams using Agile methodologies.',
           ],
         },
@@ -92,7 +92,7 @@ export class App {
         {
           title: 'Frontend Development',
           items:
-            'Angular · TypeScript · Bootstrap · jQuery · Responsive Design',
+            'Angular · TypeScript · SCSS · Bootstrap · jQuery',
         },
         {
           title: 'Version Control & Collaboration',
@@ -104,7 +104,7 @@ export class App {
         },
         {
           title: 'Backend & APIs',
-          items: 'C# · .NET · Java · Spring Boot · REST APIs',
+          items: 'C# · .NET · Java · Kotlin · Spring Boot · REST APIs',
         },
         {
           title: 'Databases',
@@ -113,7 +113,7 @@ export class App {
         {
           title: 'Infrastructure & Deployment',
           items:
-            'Docker · VPS · Hosting · Domains · DNS · Website Deployment & Maintenance',
+            'Docker · VPS · Hosting · DNS · Website Deployment',
         },
         {
           title: 'Digital Design',
@@ -122,11 +122,6 @@ export class App {
       ],
 
       studies: [
-        {
-          title: 'Computer Engineering | Undergraduate Studies',
-          details:
-            'University of Almería · 2014–2018 · Degree not completed',
-        },
         {
           title:
             'Higher Vocational Training Diploma in Web Application Development',
@@ -158,7 +153,7 @@ export class App {
       contact: 'Contacto',
       profile: 'Perfil profesional',
       profileText:
-        'Desarrolladora frontend con experiencia profesional previa en aplicaciones web con Angular y TypeScript. Retomando el desarrollo frontend con especial interés en Angular moderno, interfaces adaptables y código mantenible. Experiencia integrando APIs REST, manteniendo aplicaciones y utilizando Git. Experiencia adicional gestionando proyectos web para clientes, plataformas CMS, alojamiento y despliegues.',
+        'Desarrolladora frontend con experiencia profesional en aplicaciones web con Angular y TypeScript, integración de APIs REST y mantenimiento de software empresarial. Experiencia en desarrollo con CMS, tecnologías backend, Docker y gestión de infraestructura web. Combina el desarrollo de software con la gestión integral de proyectos y la colaboración con equipos multidisciplinares.',
       skills: 'Competencias técnicas',
       experience: 'Experiencia profesional',
       education: 'Formación académica',
@@ -170,12 +165,12 @@ export class App {
           title: 'Desarrolladora web autónoma | Proyectos digitales',
           dates: 'Mayo 2019 – marzo 2026',
           bullets: [
-            'Desarrollo y mantenimiento de sitios web para clientes internacionales con WordPress y otros CMS.',
-            'Desarrollo de aplicaciones propias con Angular, backend en Kotlin/Java y bases de datos MongoDB.',
-            'Diseño de páginas adaptables y recursos gráficos digitales.',
-            'Configuración de alojamiento web, dominios, DNS y entornos VPS.',
-            'Uso de Docker para entornos locales, despliegues y mantenimiento.',
-            'Gestión de requisitos, presupuestos y entregas de proyectos.',
+            'Desarrollo, personalización y mantenimiento de sitios web y soluciones CMS para clientes internacionales.',
+            'Desarrollo independiente de aplicaciones Angular con tecnologías backend Java/Kotlin y MongoDB.',
+            'Diseño de interfaces web adaptables y recursos gráficos digitales según los requisitos del cliente.',
+            'Configuración y mantenimiento de alojamiento web, servidores VPS, dominios, DNS y despliegues.',
+            'Uso de Docker para entornos de desarrollo locales.',
+            'Gestión de comunicación con clientes, requisitos técnicos, presupuestos y entregas.',
           ],
         },
         {
@@ -191,10 +186,10 @@ export class App {
           title: 'Desarrolladora de aplicaciones | ZRED',
           dates: 'Abril 2018 – junio 2019',
           bullets: [
-            'Desarrollo y mantenimiento de aplicaciones web y móviles.',
-            'Desarrollo de funcionalidades utilizando Angular.',
-            'Integración de APIs REST y servicios externos.',
-            'Desarrollo de bots de Telegram conectados con servicios externos.',
+            'Desarrollo y mantenimiento de funcionalidades para aplicaciones web y móviles.',
+            'Implementación de funcionalidades con Angular.',
+            'Integración de APIs REST y servicios de terceros.',
+            'Creación de bots de Telegram conectados con servicios externos.',
             'Colaboración con equipos de desarrollo mediante metodologías ágiles.',
           ],
         },
@@ -232,7 +227,7 @@ export class App {
         {
           title: 'Desarrollo frontend',
           items:
-            'Angular · TypeScript · Bootstrap · jQuery · Diseño adaptable',
+            'Angular · TypeScript · SCSS · Bootstrap · jQuery',
         },
         {
           title: 'Control de versiones y colaboración',
@@ -244,7 +239,7 @@ export class App {
         },
         {
           title: 'Backend y APIs',
-          items: 'C# · .NET · Java · Spring Boot · APIs REST',
+          items: 'C# · .NET · Java · Kotlin · Spring Boot · APIs REST',
         },
         {
           title: 'Bases de datos',
@@ -253,7 +248,7 @@ export class App {
         {
           title: 'Infraestructura y despliegue',
           items:
-            'Docker · VPS · Alojamiento web · Dominios · DNS · Despliegue y mantenimiento',
+            'Docker · VPS · Alojamiento web · DNS · Despliegue web',
         },
         {
           title: 'Diseño digital',
@@ -262,11 +257,6 @@ export class App {
       ],
 
       studies: [
-        {
-          title: 'Grado en Ingeniería Informática | Estudios cursados',
-          details:
-            'Universidad de Almería · 2014–2018 · Titulación no finalizada',
-        },
         {
           title: 'Técnico Superior en Desarrollo de Aplicaciones Web',
           details: 'IES Aguadulce · Septiembre 2012 – julio 2014',
