@@ -19,7 +19,7 @@ export class App {
       contact: 'Contact',
       profile: 'Professional Summary',
       profileText:
-        'Frontend / Full-stack Web Developer with professional experience developing web applications using Angular and TypeScript, as well as frontend and backend functionality using C#/.NET. Experienced in REST API integration, SQL and MongoDB databases, CMS-based development, Docker, and web infrastructure management. Combines software development experience with independent project delivery and collaboration across multidisciplinary teams.',
+        'Frontend / Full-stack Developer experienced in Angular, TypeScript and backend development with C#/.NET. Skilled in REST API integration, SQL and MongoDB databases, CMS platforms, Docker and web deployments. Experienced in project delivery and collaboration across multidisciplinary teams.',
       skills: 'Technical Skills',
       experience: 'Professional Experience',
       education: 'Education',
@@ -151,7 +151,7 @@ export class App {
       contact: 'Contacto',
       profile: 'Perfil profesional',
       profileText:
-        'Desarrolladora web Frontend / Full-stack con experiencia profesional en el desarrollo de aplicaciones utilizando Angular y TypeScript, así como en funcionalidades frontend y backend con C#/.NET. Experiencia en integración de APIs REST, bases de datos SQL y MongoDB, desarrollo con CMS, Docker y gestión de infraestructura web. Combina experiencia en desarrollo de software con gestión de proyectos independientes y colaboración con equipos multidisciplinares.',
+        'Desarrolladora Frontend / Full-stack con experiencia en Angular, TypeScript y desarrollo backend con C#/.NET. Experiencia en integración de APIs REST, bases de datos SQL y MongoDB, CMS, Docker y despliegues web. También cuenta con experiencia en gestión de proyectos y colaboración con equipos multidisciplinares.',
       skills: 'Competencias técnicas',
       experience: 'Experiencia profesional',
       education: 'Formación académica',
