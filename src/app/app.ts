@@ -13,13 +13,13 @@ export class App {
 
   readonly cv = {
     en: {
-      role: 'Frontend Developer',
+      role: 'Frontend / Full-stack Web Developer',
       location: 'Almería, Spain',
       availability: 'Open to remote opportunities',
       contact: 'Contact',
       profile: 'Professional Summary',
       profileText:
-        'Frontend Developer with professional experience building web applications using Angular and TypeScript, integrating REST APIs, and maintaining business software. Experienced in CMS-based development, backend technologies, Docker, and web infrastructure management. Combines software development experience with independent project delivery and collaboration across multidisciplinary teams.',
+        'Frontend / Full-stack Web Developer with professional experience developing web applications using Angular and TypeScript, as well as frontend and backend functionality using C#/.NET. Experienced in REST API integration, SQL and MongoDB databases, CMS-based development, Docker, and web infrastructure management. Combines software development experience with independent project delivery and collaboration across multidisciplinary teams.',
       skills: 'Technical Skills',
       experience: 'Professional Experience',
       education: 'Education',
@@ -91,8 +91,7 @@ export class App {
       skillGroups: [
         {
           title: 'Frontend Development',
-          items:
-            'Angular · TypeScript · SCSS · Bootstrap · jQuery',
+          items: 'Angular · TypeScript · SCSS · Bootstrap · jQuery',
         },
         {
           title: 'Version Control & Collaboration',
@@ -112,8 +111,7 @@ export class App {
         },
         {
           title: 'Infrastructure & Deployment',
-          items:
-            'Docker · VPS · Hosting · DNS · Website Deployment',
+          items: 'Docker · VPS · Hosting · DNS · Website Deployment',
         },
         {
           title: 'Digital Design',
@@ -147,13 +145,13 @@ export class App {
     },
 
     es: {
-      role: 'Desarrolladora Frontend',
+      role: 'Desarrolladora Web Frontend / Full-stack',
       location: 'Almería, España',
       availability: 'Abierta a oportunidades en remoto',
       contact: 'Contacto',
       profile: 'Perfil profesional',
       profileText:
-        'Desarrolladora frontend con experiencia profesional en aplicaciones web con Angular y TypeScript, integración de APIs REST y mantenimiento de software empresarial. Experiencia en desarrollo con CMS, tecnologías backend, Docker y gestión de infraestructura web. Combina el desarrollo de software con la gestión integral de proyectos y la colaboración con equipos multidisciplinares.',
+        'Desarrolladora web Frontend / Full-stack con experiencia profesional en el desarrollo de aplicaciones utilizando Angular y TypeScript, así como en funcionalidades frontend y backend con C#/.NET. Experiencia en integración de APIs REST, bases de datos SQL y MongoDB, desarrollo con CMS, Docker y gestión de infraestructura web. Combina experiencia en desarrollo de software con gestión de proyectos independientes y colaboración con equipos multidisciplinares.',
       skills: 'Competencias técnicas',
       experience: 'Experiencia profesional',
       education: 'Formación académica',
@@ -226,8 +224,7 @@ export class App {
       skillGroups: [
         {
           title: 'Desarrollo frontend',
-          items:
-            'Angular · TypeScript · SCSS · Bootstrap · jQuery',
+          items: 'Angular · TypeScript · SCSS · Bootstrap · jQuery',
         },
         {
           title: 'Control de versiones y colaboración',
@@ -247,8 +244,7 @@ export class App {
         },
         {
           title: 'Infraestructura y despliegue',
-          items:
-            'Docker · VPS · Alojamiento web · DNS · Despliegue web',
+          items: 'Docker · VPS · Alojamiento web · DNS · Despliegue web',
         },
         {
           title: 'Diseño digital',
